@@ -18,7 +18,6 @@ Documentation: https://rclone.org/docs/
 Current build status
 ====================
 
-
 <table>
     
   <tr>
